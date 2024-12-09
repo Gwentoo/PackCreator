@@ -1,0 +1,65 @@
+{
+
+    "PackName": "NewPack",
+    "Preview": "icon.png",
+    "Desc": "blablabla",
+    "Author": "Gwen",
+    "Rounds": 2,
+    "round1":
+        {
+          "NameRound":"дрочня",
+          "ThemeCount": 1,
+          "Theme1":
+           {
+            "ThemeName": "openings",
+             "QuestCount": 2,
+            "Questions":
+            {
+                "Quest1":
+                {
+                    "Price": 500,
+                    "Quest": {"type": "betAll","text":"Какой размер члена?", "audio":"", "video":"blond.mp4", "photo":"bigcock.png"},
+                    "Answer": 15
+                },
+                "Quest2":
+                {
+                    "Price": 400,
+                    "Quest": {"type": "bet","text": "Сосал?", "audio":"", "video": "", "photo":""},
+                    "Answer": "Да"
+                }
+
+
+            }
+          }
+
+        },
+  "round2":
+  {
+    "NameRound":"дрочня2",
+    "ThemeCount": 1,
+    "Theme1":
+    {
+      "ThemeName": "openings2",
+      "QuestCount": 2,
+      "Questions":
+      {
+        "Quest1":
+        {
+          "Price": 1000,
+          "Quest": {"type": "default","text":"Какой размер члена?", "audio":"", "video":"blond.mp4", "photo":"bigcock.png"},
+          "Answer": 19
+        },
+        "Quest2":
+        {
+          "Price": 300,
+          "Quest": {"type": "default","text": "Сосал?", "audio":"", "video": "", "photo":""},
+          "Answer": "Нет"
+        }
+
+
+      }
+    }
+
+  }
+
+}

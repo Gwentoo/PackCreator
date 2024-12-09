@@ -1,0 +1,35 @@
+{
+
+    "PackName": "pack",
+    "Preview": "icon.png",
+    "desc": "blablabla",
+    "rounds": 4,
+    "round1":
+        {
+          "name":"дрочня",
+          "theme1":
+           {
+            "themeName": "openings",
+            "questions":
+            {
+                "quest1":
+                {   
+                    "price": 500,
+                    "quest": {"text":"Какой размер члена?", "video":"porhhub/blond.mp4", "photo":"bigcock.png"},
+                    "answer": 15
+                },
+                "quest2": 
+                {
+                    "price": 400,
+                    "quest": {"text": "Сосал?", "video": "", "photo":""},
+                    "answer": "Да"
+                }
+
+
+            }
+          }
+
+        }
+
+
+}
